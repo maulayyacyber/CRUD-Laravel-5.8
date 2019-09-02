@@ -23,7 +23,7 @@ selanjutnya jalankan perintah-perintah dibawah ini di terminal
 
 **clone dari repository**
 
-`$ > git clone repo.git laravel5.8-crud`
+`$ > git clone https://github.com/maulayyacyber/CRUD-Laravel-5.8.git laravel5.8-crud`
 
 **masuk ke folder project**
 
@@ -39,7 +39,7 @@ selanjutnya jalankan perintah-perintah dibawah ini di terminal
 
 **dump autoload** 
 
-`$ > php composer dump-autoload`
+`$ > composer dump-autoload`
 
 **insert fake data dengan seeder**
 
